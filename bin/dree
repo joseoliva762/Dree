@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+const { generateTree } = require('../lib/index');
+const directory = process.argv[2];
+generateTree(directory);
