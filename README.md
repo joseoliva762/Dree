@@ -28,6 +28,13 @@ Reemplaza <directorio> con la ruta del directorio que deseas explorar. Por ejemp
 
 El paquete generará un árbol de archivos y carpetas en la terminal, mostrando la estructura del directorio especificado.
 
+## Flags
+El paquete proporciona las siguientes banderas para personalizar la salida:
+- --omit-git: Omite los archivos y carpetas de Git.
+- --omit-hidden: Omite los archivos y carpetas ocultos.
+- --ommit-node-modules: Omite los archivos y carpetas de node_modules.
+- --omit-all-files: Omite todos los archivos.
+
 ## Ejemplo
 Supongamos que tienes la siguiente estructura de directorios y archivos:
 
