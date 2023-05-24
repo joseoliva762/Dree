@@ -13,5 +13,8 @@
     "files"
   ],
   "author": "jose.oliva",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "dreel": "./lib/index.js"
+  }
 }
