@@ -22,7 +22,7 @@ Ejecuta el siguiente comando en la terminal para generar el árbol de archivos y
 Reemplaza <directorio> con la ruta del directorio que deseas explorar. Por ejemplo:
 
 ```shell
-    tree ./ruta/al/directorio
+    dreel ./ruta/al/directorio
 ```
 
 El paquete generará un árbol de archivos y carpetas en la terminal, mostrando la estructura del directorio especificado.
