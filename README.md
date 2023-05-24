@@ -1,7 +1,7 @@
 # Dreel: Árbol de Archivos y Carpetas en la Terminal
 
 [![npm version](https://img.shields.io/npm/v/nombre-del-paquete.svg)](https://www.npmjs.com/package/dreel)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tu-usuario/nombre-del-paquete/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/joseoliva762/dree/blob/main/LICENSE)
 
 Una aplicación de línea de comandos que genera un árbol de archivos y carpetas en la terminal. Proporciona una representación visual de la estructura de directorios y archivos presentes en un directorio específico.
 
