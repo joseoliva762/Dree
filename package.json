@@ -14,5 +14,9 @@
   ],
   "author": "jose.oliva",
   "license": "MIT",
-  "bin": "./bin/dreel.js"
+  "bin": "./bin/dreel.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joseoliva762/Dreel.git"
+  }
 }
